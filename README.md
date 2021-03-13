@@ -1,4 +1,4 @@
-# Linux-Bash-Programming-Project
+# Linux-Bash-Programming
 ## Kurulum
 Uygulama arayüzü zenity ile programlandığından bilgisayarınızda zenity kurulu olmalıdır. Kurulum için aşağıdaki komutu kullanabilirsiniz.
 
